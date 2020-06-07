@@ -1,0 +1,6 @@
+# игнорировать каталог tmp в папке проекта
+#tmp/*
+*[_old]
+*[_backup]
+.DS_Store
+Thumbs.db
